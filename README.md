@@ -7,8 +7,7 @@ This my front end practice
 Landing Page with responsive design using Bootsrap 
 
 
-<img src="https://lh3.googleusercontent.com/pPVmt92LbseqxOAMFGXieoeZ1fmNYNFigXOpglg8nnjV5daPQQQDRjfPrSMgvlmBOAdJYADd61pQrIYbTAk-qjDcQ-soi6klQ-tKjEgjSpdqptodvL0C4OV2tPOaoZVviI7QZAcISVJ3LXu5eWg6ODTfB7OA2q16Na0_ZVfE-bDCX-dHArJSz3pyAI3BKJ4brgn8N0J6Irb1ZSUjcpzoMb707s5M1VXm0DF-3jCTfFd_cszrJurWwL2pt6S9E0K6884qaLwLqn9hLh012iWBO0_KjJyltBYWUK9MCgDdeRS10yh7L9IxuHqh8Zm1hST3drUxFHZRwOiciGFr6u-Ux21alHNipmw8IizBUREQQ_qao002nwKUpkMzH71EB0QlzD7l2Sy5Z2ovh8nghzXwqKtjAI_xZQndD8xz5bb_8JLMLNkkCAadj7ivZsfVOMhJixshtK1uelwXKHLB0APrer9RG6ODoQ3urAMUfmyGeA2w5baGdF507cpLeEZBF-4isVDRTmW_-WW9iq7tXPgJXZhGvpbf1dussCmAcSZbPdmnDr5jLef3nwUABfpKNlItHy-RImGJ7Ay7R-4hdlWkjIWFVMdM2IbxdNHUBXQzZQ=w588-h804-no" style=" width:100px ; height:100px " />
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/152012252@N06/37497577952/in/album-72157685903489972/" title="FrontEndPractice"><img src="https://farm5.staticflickr.com/4503/37497577952_ac3c4bbfdb_z.jpg" width="640" height="319" alt="FrontEndPractice"></a>
 
-
-<img src="https://lh3.googleusercontent.com/iHHrdKTlOe6jLLoT-5Fnmc4Zou-A4UGaMqIoQawJlID_LcQIqAROrECiJgBXW92dVwH2Jvz_EgANQO_KZ_LPO2FGu_j_tNlIcc9xBJKYri8J-RzEg3G8I8Lrp7WYMcjsezplOZo4dxnmzgc9yUbJy6SzTpk9Q0DF-rbIptytxKkwKFDPXg0snz6X_2bNN4qJS0mlblAUF_W-KhzsHFUirlUyX28auwWacSx9-lk2Aki6-qF3eI7bxbMJ3gF31VtX7WMy9s0Fe_vBEVDh5AITHcxwbGXd7XQ-t3HQMWe-y5eqhU7fwjFDXg22BH5WZW1389dRDQv8wNeD6FSvFygQSL5YzPc-w6ewBj16zqHeeEWmtjgvBeortqmlRBLX6kPNMtJckOMxo2o6leC0Xy-VBVs1oqB9xE5BsiLYN61xxxyYri8lq6Z7wloRIRXyHrN0hPrfgNQnjpSwFghe4AbFoUU_splouHR0fs5ThmJ5jpDneJelSRG3rvynMpxUVPR0MuIn3mK_-aY-dAKEgX6OtP3gPfUapm6vODiUb8i4xfl8GICXWZH5vmqHd1qD5az-3WV7mrRGk2jah_BrQKU3BRNQDZOf2OjgXJa6NKuGLg=w1882-h940-no" style=" width:100px ; height:100px " />
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/152012252@N06/36859180503/in/album-72157685903489972/" title="FrontEndPracticeMobile"><img src="https://farm5.staticflickr.com/4471/36859180503_b2853896ff_z.jpg" width="468" height="640" alt="FrontEndPracticeMobile"></a>
 
